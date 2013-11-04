@@ -1,3 +1,5 @@
+
+```
 kieran@ubuntu:~/dev/ruby-map-reduce$ time cat sample-data/CrimeStatebyState.csv | ruby crime/map.rb | sort |  ruby crime/reduce.rb
 Aggravated assault	30190464
 Burglary	113685708
@@ -20,3 +22,4 @@ Murder and nonnegligent Manslaughter	810514
 real	0m0.275s
 user	0m0.222s
 sys	0m0.014s
+```
