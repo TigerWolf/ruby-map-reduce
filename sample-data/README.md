@@ -2,6 +2,7 @@ Sample Data
 ===========
 
 *500.csv*
+
 Took a list of [500 names][0] to allow me to try to do more complex jobs on map/reduce.
 
 The list is a CSV files containing the following data:
@@ -14,6 +15,7 @@ The list is a CSV files containing the following data:
 
 
 *Crimes by State.csv*
+
 is sourced from: http://hci.stanford.edu/jheer/workshop/data/
 
 The data is:
