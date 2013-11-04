@@ -1,6 +1,7 @@
 Sample Data
 ===========
 
+*500.csv*
 Took a list of [500 names][0] to allow me to try to do more complex jobs on map/reduce.
 
 The list is a CSV files containing the following data:
@@ -10,3 +11,11 @@ The list is a CSV files containing the following data:
 > Note: to make it easier to parse I took off all `"` from the original file and changed the `,` for `;`
 
 [0]: http://www.briandunning.com/sample-data/ "Free Sample Data for Testing"
+
+
+*Crimes by State.csv*
+is sourced from: http://hci.stanford.edu/jheer/workshop/data/
+
+The data is:
+
+State,Type of Crime,Crime,Year,Count
