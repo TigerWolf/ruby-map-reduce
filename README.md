@@ -3,6 +3,8 @@ ruby-map-reduce
 
 Some examples and notes about writing map reduces in ruby to run under Hadoop.
 
+Slides from my presentation: http://kieranandrews.com.au/2013/11/map-reduce-my-recent-talk/
+
 Examples
 --------
 
